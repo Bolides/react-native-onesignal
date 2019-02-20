@@ -458,7 +458,7 @@
 			};
 			name = Local;
 		};
-		FDECFC96221B654400EA1E33 /* TestRelease */ = {
+		FDECFC96221B654400EA1E33 /* BetaRelease */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
@@ -514,9 +514,9 @@
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
-			name = TestRelease;
+			name = BetaRelease;
 		};
-		FDECFC97221B654400EA1E33 /* TestRelease */ = {
+		FDECFC97221B654400EA1E33 /* BetaRelease */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
@@ -539,7 +539,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
-			name = TestRelease;
+			name = BetaRelease;
 		};
 /* End XCBuildConfiguration section */
 
@@ -550,7 +550,7 @@
 				3245CDFF1BFEE35C00EABF68 /* Debug */,
 				FD84BA682209CCB8000B86BC /* Local */,
 				3245CE001BFEE35C00EABF68 /* Release */,
-				FDECFC96221B654400EA1E33 /* TestRelease */,
+				FDECFC96221B654400EA1E33 /* BetaRelease */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -561,7 +561,7 @@
 				3245CE021BFEE35C00EABF68 /* Debug */,
 				FD84BA692209CCB8000B86BC /* Local */,
 				3245CE031BFEE35C00EABF68 /* Release */,
-				FDECFC97221B654400EA1E33 /* TestRelease */,
+				FDECFC97221B654400EA1E33 /* BetaRelease */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
